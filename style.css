@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+
+.container {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.subtitle,
+.title {
+  font-family: monospace;
+  text-align: center;
+  color: dimgrey;
+}
+
+.subtitle {
+  font-size: 2rem;
+}
+
+.title {
+  font-size: 6rem;
+}
